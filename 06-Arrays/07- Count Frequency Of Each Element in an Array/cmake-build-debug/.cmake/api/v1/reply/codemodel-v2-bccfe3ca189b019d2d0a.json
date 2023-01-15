@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "07__Count_Frequency_Of_Each_Element_in_an_Array",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "07__Count_Frequency_Of_Each_Element_in_an_Array::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07__Count_Frequency_Of_Each_Element_in_an_Array-Debug-9354789fb36b1e98490d.json",
+					"name" : "07__Count_Frequency_Of_Each_Element_in_an_Array",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Programming/Coding/C/C Tutorial/06-Arrays/07- Count Frequency Of Each Element in an Array/cmake-build-debug",
+		"source" : "D:/Programming/Coding/C/C Tutorial/06-Arrays/07- Count Frequency Of Each Element in an Array"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

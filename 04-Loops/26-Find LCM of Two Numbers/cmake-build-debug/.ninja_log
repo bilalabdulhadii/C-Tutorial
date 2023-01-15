@@ -1,0 +1,11 @@
+# ninja log v5
+1	378	6945475073044624	CMakeFiles/26_Find_LCM_of_Two_Numbers.dir/main.c.obj	688bdc433ec0c952
+380	754	6945475076713053	26_Find_LCM_of_Two_Numbers.exe	ef2be260719f98d8
+6	276	6945497057250986	CMakeFiles/26_Find_LCM_of_Two_Numbers.dir/main.c.obj	688bdc433ec0c952
+276	756	6945497061547788	26_Find_LCM_of_Two_Numbers.exe	ef2be260719f98d8
+2	85	6945497939186003	CMakeFiles/26_Find_LCM_of_Two_Numbers.dir/main.c.obj	688bdc433ec0c952
+86	195	6945497940231579	26_Find_LCM_of_Two_Numbers.exe	ef2be260719f98d8
+2	111	6945498637848234	CMakeFiles/26_Find_LCM_of_Two_Numbers.dir/main.c.obj	688bdc433ec0c952
+113	255	6945498639150000	26_Find_LCM_of_Two_Numbers.exe	ef2be260719f98d8
+2	99	6945499474203579	CMakeFiles/26_Find_LCM_of_Two_Numbers.dir/main.c.obj	688bdc433ec0c952
+100	236	6945499475498812	26_Find_LCM_of_Two_Numbers.exe	ef2be260719f98d8

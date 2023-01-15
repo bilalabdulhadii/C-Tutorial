@@ -1,0 +1,3 @@
+D:/new/18-Convert Octal To Hexadecimal/cmake-build-debug/CMakeFiles/18_Convert_Octal_To_Hexadecimal.dir
+D:/new/18-Convert Octal To Hexadecimal/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/new/18-Convert Octal To Hexadecimal/cmake-build-debug/CMakeFiles/rebuild_cache.dir

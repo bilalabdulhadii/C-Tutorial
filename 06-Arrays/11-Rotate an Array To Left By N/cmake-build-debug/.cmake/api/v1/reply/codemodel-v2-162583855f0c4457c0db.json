@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "11_Rotste_an_Array_To_Left_By_N",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "11_Rotste_an_Array_To_Left_By_N::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-11_Rotste_an_Array_To_Left_By_N-Debug-0b95d24955543912217c.json",
+					"name" : "11_Rotste_an_Array_To_Left_By_N",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Programming/Coding/C/C Tutorial/06-Arrays/11-Rotate an Array To Left By N/cmake-build-debug",
+		"source" : "D:/Programming/Coding/C/C Tutorial/06-Arrays/11-Rotate an Array To Left By N"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

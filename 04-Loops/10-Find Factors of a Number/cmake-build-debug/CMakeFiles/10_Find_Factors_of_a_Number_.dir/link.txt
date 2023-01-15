@@ -1,0 +1,3 @@
+"D:\Program Files\JetBrains\CLion 2022.3.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\10_Find_Factors_of_a_Number_.dir/objects.a
+D:\PROGRA~2\JETBRA~1\CLION2~1.1\bin\mingw\bin\ar.exe qc CMakeFiles\10_Find_Factors_of_a_Number_.dir/objects.a @CMakeFiles\10_Find_Factors_of_a_Number_.dir\objects1.rsp
+D:\PROGRA~2\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\10_Find_Factors_of_a_Number_.dir/objects.a -Wl,--no-whole-archive -o 10_Find_Factors_of_a_Number_.exe -Wl,--out-implib,lib10_Find_Factors_of_a_Number_.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\10_Find_Factors_of_a_Number_.dir\linklibs.rsp

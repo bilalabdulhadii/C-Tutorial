@@ -1,0 +1,3 @@
+D:/new/21-Convert Decimal To Hexadecimal/cmake-build-debug/CMakeFiles/21_Convert_Decimal_To_Hexadecimal.dir
+D:/new/21-Convert Decimal To Hexadecimal/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/new/21-Convert Decimal To Hexadecimal/cmake-build-debug/CMakeFiles/rebuild_cache.dir

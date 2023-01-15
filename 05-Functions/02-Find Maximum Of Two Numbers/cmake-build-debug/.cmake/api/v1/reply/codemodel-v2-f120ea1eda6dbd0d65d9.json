@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "02_Find_Maximum_Of_Two_Numbers",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "02_Find_Maximum_Of_Two_Numbers::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02_Find_Maximum_Of_Two_Numbers-Debug-c5c300bffeecfa4dd6f6.json",
+					"name" : "02_Find_Maximum_Of_Two_Numbers",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Programming/Coding/C/C Tutorial/05-Functions/02-Find Maximum Of Two Numbers/cmake-build-debug",
+		"source" : "D:/Programming/Coding/C/C Tutorial/05-Functions/02-Find Maximum Of Two Numbers"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

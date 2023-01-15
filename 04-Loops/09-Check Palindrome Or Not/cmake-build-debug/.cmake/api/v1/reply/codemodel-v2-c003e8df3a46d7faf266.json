@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "09_Check_Palindrome_Or_Not",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "09_Check_Palindrome_Or_Not::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-09_Check_Palindrome_Or_Not-Debug-2d1b9a15167e2c650419.json",
+					"name" : "09_Check_Palindrome_Or_Not",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Programming/Coding/C/C Tutorial/04-Loops/09-Check Palindrome Or Not/cmake-build-debug",
+		"source" : "D:/Programming/Coding/C/C Tutorial/04-Loops/09-Check Palindrome Or Not"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

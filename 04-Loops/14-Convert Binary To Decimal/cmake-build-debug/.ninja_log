@@ -1,0 +1,19 @@
+# ninja log v5
+0	105	6943067829830490	CMakeFiles/14_Convert_Binary_To_Decimal.dir/main.c.obj	851dc2ce97304d64
+105	236	6943067831084373	14_Convert_Binary_To_Decimal.exe	ba6833c3543b770d
+1	89	6943068120438903	CMakeFiles/14_Convert_Binary_To_Decimal.dir/main.c.obj	851dc2ce97304d64
+89	201	6943068121511824	14_Convert_Binary_To_Decimal.exe	ba6833c3543b770d
+2	83	6943069389541643	CMakeFiles/14_Convert_Binary_To_Decimal.dir/main.c.obj	851dc2ce97304d64
+83	181	6943069390466835	14_Convert_Binary_To_Decimal.exe	ba6833c3543b770d
+2	85	6943070216253793	CMakeFiles/14_Convert_Binary_To_Decimal.dir/main.c.obj	851dc2ce97304d64
+85	195	6943070217294218	14_Convert_Binary_To_Decimal.exe	ba6833c3543b770d
+2	91	6943094403374265	CMakeFiles/14_Convert_Binary_To_Decimal.dir/main.c.obj	851dc2ce97304d64
+91	205	6943094404450581	14_Convert_Binary_To_Decimal.exe	ba6833c3543b770d
+2	109	6945212326222093	CMakeFiles/14_Convert_Binary_To_Decimal.dir/main.c.obj	851dc2ce97304d64
+109	237	6945212327479107	14_Convert_Binary_To_Decimal.exe	ba6833c3543b770d
+2	105	6945217650357272	CMakeFiles/14_Convert_Binary_To_Decimal.dir/main.c.obj	851dc2ce97304d64
+106	248	6945217651703926	14_Convert_Binary_To_Decimal.exe	ba6833c3543b770d
+2	108	6945225223984497	CMakeFiles/14_Convert_Binary_To_Decimal.dir/main.c.obj	851dc2ce97304d64
+108	243	6945225225273661	14_Convert_Binary_To_Decimal.exe	ba6833c3543b770d
+2	89	6945243118197438	CMakeFiles/14_Convert_Binary_To_Decimal.dir/main.c.obj	851dc2ce97304d64
+89	222	6945243119464847	14_Convert_Binary_To_Decimal.exe	ba6833c3543b770d

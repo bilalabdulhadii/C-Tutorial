@@ -1,0 +1,3 @@
+D:/Programming/Coding/C/C Tutorial/Introdaction/Syntax/cmake-build-debug/CMakeFiles/Syntax.dir
+D:/Programming/Coding/C/C Tutorial/Introdaction/Syntax/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programming/Coding/C/C Tutorial/Introdaction/Syntax/cmake-build-debug/CMakeFiles/rebuild_cache.dir

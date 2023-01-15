@@ -1,0 +1,7 @@
+# ninja log v5
+0	194	6947785345668687	CMakeFiles/03_Find_The_Factorial_of_a_Number.dir/main.c.obj	c8a7852f327822ac
+196	398	6947785347642621	03_Find_The_Factorial_of_a_Number.exe	57371f62ae3bd809
+3	109	6947785623901051	CMakeFiles/03_Find_The_Factorial_of_a_Number.dir/main.c.obj	c8a7852f327822ac
+109	259	6947785625317693	03_Find_The_Factorial_of_a_Number.exe	57371f62ae3bd809
+2	107	6947786110460442	CMakeFiles/03_Find_The_Factorial_of_a_Number.dir/main.c.obj	c8a7852f327822ac
+107	241	6947786111760625	03_Find_The_Factorial_of_a_Number.exe	57371f62ae3bd809

@@ -1,0 +1,3 @@
+D:/new/16-Convert Octal To Binary/cmake-build-debug/CMakeFiles/16_Convert_Octal_To_Binary.dir
+D:/new/16-Convert Octal To Binary/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/new/16-Convert Octal To Binary/cmake-build-debug/CMakeFiles/rebuild_cache.dir

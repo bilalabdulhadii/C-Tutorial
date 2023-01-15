@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.24)
+project(06_Count_The_Even_And_The_Odd_Elements_in__an_Array C)
+
+set(CMAKE_C_STANDARD 11)
+
+add_executable(06_Count_The_Even_And_The_Odd_Elements_in__an_Array main.c)

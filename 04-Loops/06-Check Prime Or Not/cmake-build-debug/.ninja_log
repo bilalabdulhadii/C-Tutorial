@@ -1,0 +1,13 @@
+# ninja log v5
+0	127	6940365450743194	CMakeFiles/06_Check_Prime_Or_Not.dir/main.c.obj	45fd2eb19c4e3d
+128	244	6940365451875887	06_Check_Prime_Or_Not.exe	df92d98640c1958c
+2	88	6940365739689609	CMakeFiles/06_Check_Prime_Or_Not.dir/main.c.obj	45fd2eb19c4e3d
+91	204	6940365740787373	06_Check_Prime_Or_Not.exe	df92d98640c1958c
+3	86	6940365957095249	CMakeFiles/06_Check_Prime_Or_Not.dir/main.c.obj	45fd2eb19c4e3d
+86	183	6940365958017372	06_Check_Prime_Or_Not.exe	df92d98640c1958c
+1	76	6940366388447713	CMakeFiles/06_Check_Prime_Or_Not.dir/main.c.obj	45fd2eb19c4e3d
+76	183	6940366389386573	06_Check_Prime_Or_Not.exe	df92d98640c1958c
+1	74	6940366935204646	CMakeFiles/06_Check_Prime_Or_Not.dir/main.c.obj	45fd2eb19c4e3d
+74	174	6940366936134176	06_Check_Prime_Or_Not.exe	df92d98640c1958c
+2	123	6940370178332208	CMakeFiles/06_Check_Prime_Or_Not.dir/main.c.obj	45fd2eb19c4e3d
+123	267	6940370179739897	06_Check_Prime_Or_Not.exe	df92d98640c1958c

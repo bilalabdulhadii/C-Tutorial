@@ -1,0 +1,7 @@
+# ninja log v5
+1	260	6951538056739925	CMakeFiles/05_Find_Max_And_Min_in_Array.dir/main.c.obj	4bb2cfb16012de55
+261	433	6951538058443516	05_Find_Max_And_Min_in_Array.exe	cd232b9532efa937
+2	96	6951538434843211	CMakeFiles/05_Find_Max_And_Min_in_Array.dir/main.c.obj	4bb2cfb16012de55
+96	207	6951538435889995	05_Find_Max_And_Min_in_Array.exe	cd232b9532efa937
+16	377	6952434474222618	CMakeFiles/05_Find_Max_And_Min_in_Array.dir/main.c.obj	4bb2cfb16012de55
+377	709	6952434477487928	05_Find_Max_And_Min_in_Array.exe	cd232b9532efa937

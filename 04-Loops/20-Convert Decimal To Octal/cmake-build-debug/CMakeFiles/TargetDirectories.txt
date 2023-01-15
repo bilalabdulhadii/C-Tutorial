@@ -1,0 +1,3 @@
+D:/new/20-Convert Decimal To Octal/cmake-build-debug/CMakeFiles/20_Convert_Decimal_To_Octal.dir
+D:/new/20-Convert Decimal To Octal/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/new/20-Convert Decimal To Octal/cmake-build-debug/CMakeFiles/rebuild_cache.dir

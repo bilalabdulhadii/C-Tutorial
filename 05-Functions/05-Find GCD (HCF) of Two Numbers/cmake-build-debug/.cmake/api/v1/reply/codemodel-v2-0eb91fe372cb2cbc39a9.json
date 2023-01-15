@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "05_Find_GCD__HCF__of_Two_Numbers",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "05_Find_GCD__HCF__of_Two_Numbers::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05_Find_GCD__HCF__of_Two_Numbers-Debug-ad574990f4b47c6b2dbb.json",
+					"name" : "05_Find_GCD__HCF__of_Two_Numbers",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Programming/Coding/C/C Tutorial/05-Functions/05-Find GCD (HCF) of Two Numbers/cmake-build-debug",
+		"source" : "D:/Programming/Coding/C/C Tutorial/05-Functions/05-Find GCD (HCF) of Two Numbers"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
