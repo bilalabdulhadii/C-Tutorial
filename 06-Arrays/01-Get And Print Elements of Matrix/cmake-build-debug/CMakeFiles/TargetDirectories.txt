@@ -1,0 +1,3 @@
+D:/Programming/Coding/C/C Tutorial/06-Arrays/01-Get And Print Elements of Matrix/cmake-build-debug/CMakeFiles/01_Get_And_Print_Elements_of_Matrix.dir
+D:/Programming/Coding/C/C Tutorial/06-Arrays/01-Get And Print Elements of Matrix/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programming/Coding/C/C Tutorial/06-Arrays/01-Get And Print Elements of Matrix/cmake-build-debug/CMakeFiles/rebuild_cache.dir

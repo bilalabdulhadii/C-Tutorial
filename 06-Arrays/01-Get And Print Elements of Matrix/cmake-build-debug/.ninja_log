@@ -1,0 +1,9 @@
+# ninja log v5
+0	399	6955955846750206	CMakeFiles/01_Get_And_Print_Elements_of_Matrix.dir/main.c.obj	3ca835068b7426e0
+400	894	6955955851634831	01_Get_And_Print_Elements_of_Matrix.exe	1259933b69884f43
+2	106	6955956070403623	CMakeFiles/01_Get_And_Print_Elements_of_Matrix.dir/main.c.obj	3ca835068b7426e0
+106	227	6955956071568297	01_Get_And_Print_Elements_of_Matrix.exe	1259933b69884f43
+2	97	6955956171782595	CMakeFiles/01_Get_And_Print_Elements_of_Matrix.dir/main.c.obj	3ca835068b7426e0
+97	210	6955956172852964	01_Get_And_Print_Elements_of_Matrix.exe	1259933b69884f43
+2	95	6955956861561661	CMakeFiles/01_Get_And_Print_Elements_of_Matrix.dir/main.c.obj	3ca835068b7426e0
+96	213	6955956862703394	01_Get_And_Print_Elements_of_Matrix.exe	1259933b69884f43
