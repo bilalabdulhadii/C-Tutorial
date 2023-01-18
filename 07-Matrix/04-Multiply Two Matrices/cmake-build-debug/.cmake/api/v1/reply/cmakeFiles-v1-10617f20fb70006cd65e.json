@@ -429,8 +429,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "D:/Programming/Coding/C/C Tutorial/06-Arrays/03-Subtract Two Matrices/cmake-build-debug",
-		"source" : "D:/Programming/Coding/C/C Tutorial/06-Arrays/03-Subtract Two Matrices"
+		"build" : "D:/Programming/Coding/C/C Tutorial/06-Arrays/04-Multiply Two Matrices/cmake-build-debug",
+		"source" : "D:/Programming/Coding/C/C Tutorial/06-Arrays/04-Multiply Two Matrices"
 	},
 	"version" : 
 	{
