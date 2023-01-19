@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "05_Multiply_The_Matrix_By_a_Constant",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "05_Multiply_The_Matrix_By_a_Constant::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05_Multiply_The_Matrix_By_a_Constant-Debug-8ea27895acd19741d253.json",
+					"name" : "05_Multiply_The_Matrix_By_a_Constant",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Programming/Coding/C/C Tutorial/07-Matrix/05-Multiply The Matrix By a Constant/cmake-build-debug",
+		"source" : "D:/Programming/Coding/C/C Tutorial/07-Matrix/05-Multiply The Matrix By a Constant"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
