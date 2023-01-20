@@ -1,3 +1,0 @@
-D:/Programming/Coding/C/C Tutorial/06-Arrays/04-Multiply Two Matrices/cmake-build-debug/CMakeFiles/04_Multiply_Two_Matrices.dir
-D:/Programming/Coding/C/C Tutorial/06-Arrays/04-Multiply Two Matrices/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Programming/Coding/C/C Tutorial/06-Arrays/04-Multiply Two Matrices/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,5 @@
 # ninja log v5
-1	79	6956371269696249	CMakeFiles/03_Subtract_Two_Matrices.dir/main.c.obj	aeb7c197b58e02ff
-80	173	6956371270592594	03_Subtract_Two_Matrices.exe	80712498da3a5d9b
+0	206	6959279834520345	CMakeFiles/03_Subtract_Two_Matrices.dir/main.c.obj	406e705944117162
+208	377	6959279836126746	03_Subtract_Two_Matrices.exe	80712498da3a5d9b
+4	123	6959279905528806	CMakeFiles/03_Subtract_Two_Matrices.dir/main.c.obj	406e705944117162
+124	333	6959279907136289	03_Subtract_Two_Matrices.exe	80712498da3a5d9b

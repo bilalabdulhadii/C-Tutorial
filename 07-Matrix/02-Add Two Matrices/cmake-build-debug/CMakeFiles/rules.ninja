@@ -42,7 +42,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = "D:\Program Files\JetBrains\CLion 2022.3.1\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -S"D:\Programming\Coding\C\C Tutorial\06-Arrays\02-Add Two Matrices" -B"D:\Programming\Coding\C\C Tutorial\06-Arrays\02-Add Two Matrices\cmake-build-debug"
+  command = "D:\Program Files\JetBrains\CLion 2022.3.1\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -S"D:\Programming\Coding\C\C Tutorial\07-Matrix\02-Add Two Matrices" -B"D:\Programming\Coding\C\C Tutorial\07-Matrix\02-Add Two Matrices\cmake-build-debug"
   description = Re-running CMake...
   generator = 1
 

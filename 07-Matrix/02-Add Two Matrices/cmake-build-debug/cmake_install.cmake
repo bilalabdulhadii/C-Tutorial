@@ -1,4 +1,4 @@
-# Install script for directory: D:/Programming/Coding/C/C Tutorial/06-Arrays/02-Add Two Matrices
+# Install script for directory: D:/Programming/Coding/C/C Tutorial/07-Matrix/02-Add Two Matrices
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/Programming/Coding/C/C Tutorial/06-Arrays/02-Add Two Matrices/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/Programming/Coding/C/C Tutorial/07-Matrix/02-Add Two Matrices/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

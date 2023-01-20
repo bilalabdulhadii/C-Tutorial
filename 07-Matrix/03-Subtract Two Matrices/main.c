@@ -54,7 +54,7 @@ int main() {
     }
 
     // Print the third matrix (result)
-    printf("\n>>> The sub of matrix1 and matrix2 is:\n");
+    printf("\nThe sub of matrix1 and matrix2 is:\n");
     for (int i=0; i<row; i++) {
         for (int j=0; j<column; j++) printf ("%6d", matrix3[i][j]);
         printf ("\n");
