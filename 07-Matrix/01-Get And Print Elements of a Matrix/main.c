@@ -4,7 +4,7 @@
 
 int main() {
     int row, column;
-    // Get the number of rows and the columns of the matrix
+    // Get the number of rows and columns of the matrix
     printf("Enter the number of rows in the matrix: ");
     scanf("%d", &row);
     printf("Enter the number of columns in the matrix: ");
