@@ -1,60 +1,54 @@
 #include <stdio.h>
 
-/* This program to find the power of a matrix entered by user. */
+/* This program to find the power of a square matrix entered by user. */
 
-int main()
-{
-    int power, num, sum;
+int main() {
+    int power, size, sum;
+
     // Get the number of rows or columns of a square matrix
-    printf("\nEnter the number of Rows or columns of a square matrix: ");
-    scanf("%d", &num);
+    printf("Enter the Order of the Matrix: ");
+    scanf("%d", &size);
     printf("Enter the power of the matrix: ");
     scanf("%d", &power);
 
-    // Declare the matrices
-    int matrix[num][num], copy_matrix[num][num], power_matrix[num][num];
+    // Declare the matrix
+    int matrix[size][size], copy_matrix[size][size], power_matrix[size][size];
 
     // Get the matrix elements
-    printf("Enter the first matrix elements:\n");
-    for(int i = 0; i < num; i++) {
-        for (int j = 0; j < num; j++) {
+    printf("Enter the matrix elements:\n");
+    for(int i = 0; i < size; i++) {
+        for (int j = 0; j < size; j++) {
             printf("matrix[%d][%d] : ", i+1, j+1);
             scanf("%d", &matrix[i][j]);
         }
     }
 
     // Produce a copy of the entered matrix
-    for (int i=0; i<num; i++)
-    {
-        for (int j=0; j<num; j++) copy_matrix[i][j] = matrix[i][j];
+    for (int i=0; i<size; i++) {
+        for (int j=0; j<size; j++) copy_matrix[i][j] = matrix[i][j];
     }
 
     // Find the power matrix
-    while(power > 1)
-    {
+    while(power > 1) {
         // Multiplication Operation
-        for(int i=0; i<num; i++)
-        {
-            for(int j=0; j<num; j++)
-            {
+        for(int i=0; i<size; i++) {
+            for(int j=0; j<size; j++) {
                 sum = 0;
-                for(int u=0; u<num; u++) sum += matrix[i][u] * copy_matrix[u][j];
+                for(int u=0; u<size; u++) sum += matrix[i][u] * copy_matrix[u][j];
                 power_matrix[i][j] = sum;
             }
         }
 
-        for(int i=0; i<num; i++)
-        {
-            for(int j=0; j<num; j++) matrix[i][j] = power_matrix[i][j];
+        for(int i=0; i<size; i++) {
+            for(int j=0; j<size; j++) matrix[i][j] = power_matrix[i][j];
         }
         power--;
     }
 
     // Print the power matrix
     printf("\nThe power matrix:\n");
-    for (int i=0; i<num; i++)
-    {
-        for (int j=0; j<num; j++) printf ("%6d", power_matrix[i][j]);
+    for (int i=0; i<size; i++) {
+        for (int j=0; j<size; j++) printf ("%6d", power_matrix[i][j]);
         printf ("\n");
     }
     return 0;

@@ -1,0 +1,19 @@
+# ninja log v5
+0	607	6961969433469073	CMakeFiles/07_Find_Determinant_of_a_Matrix.dir/main.c.obj	b5ddc00e63d6c857
+609	1374	6961969441086824	07_Find_Determinant_of_a_Matrix.exe	2076ea4216fc498c
+2	115	6961969789661708	CMakeFiles/07_Find_Determinant_of_a_Matrix.dir/main.c.obj	b5ddc00e63d6c857
+115	264	6961969791079854	07_Find_Determinant_of_a_Matrix.exe	2076ea4216fc498c
+4	138	6961976309837085	CMakeFiles/07_Find_Determinant_of_a_Matrix.dir/main.c.obj	b5ddc00e63d6c857
+139	286	6961976311252435	07_Find_Determinant_of_a_Matrix.exe	2076ea4216fc498c
+3	129	6961977990224619	CMakeFiles/07_Find_Determinant_of_a_Matrix.dir/main.c.obj	b5ddc00e63d6c857
+129	271	6961977991585611	07_Find_Determinant_of_a_Matrix.exe	2076ea4216fc498c
+2	115	6961979536293006	CMakeFiles/07_Find_Determinant_of_a_Matrix.dir/main.c.obj	b5ddc00e63d6c857
+115	360	6961979538646480	07_Find_Determinant_of_a_Matrix.exe	2076ea4216fc498c
+2	104	6961980817335708	CMakeFiles/07_Find_Determinant_of_a_Matrix.dir/main.c.obj	b5ddc00e63d6c857
+105	228	6961980818513699	07_Find_Determinant_of_a_Matrix.exe	2076ea4216fc498c
+3	124	6961981261531264	CMakeFiles/07_Find_Determinant_of_a_Matrix.dir/main.c.obj	b5ddc00e63d6c857
+124	261	6961981262840083	07_Find_Determinant_of_a_Matrix.exe	2076ea4216fc498c
+3	125	6961983163378750	CMakeFiles/07_Find_Determinant_of_a_Matrix.dir/main.c.obj	b5ddc00e63d6c857
+125	261	6961983164703248	07_Find_Determinant_of_a_Matrix.exe	2076ea4216fc498c
+3	117	6961983433573326	CMakeFiles/07_Find_Determinant_of_a_Matrix.dir/main.c.obj	b5ddc00e63d6c857
+117	245	6961983434817227	07_Find_Determinant_of_a_Matrix.exe	2076ea4216fc498c
