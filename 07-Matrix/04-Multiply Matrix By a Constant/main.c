@@ -15,7 +15,7 @@ int main() {
     int matrix[row][column];
 
     // Get the matrix elements
-    printf("Enter the first matrix elements:\n");
+    printf("Enter the matrix elements:\n");
     for(int i = 0; i < row; i++) {
         for (int j = 0; j < column; j++) {
             printf("matrix[%d][%d] : ", i+1, j+1);
@@ -29,9 +29,8 @@ int main() {
 
     // Print the result matrix
     printf("\nThe matrix after multiplying by %d is:\n", constant);
-    for(int i=0; i<row; i++)
-    {
-        for(int j=0; j<column; j++) printf("%5d", matrix[i][j] * constant);
+    for(int i=0; i<row; i++) {
+        for(int j=0; j<column; j++) printf("%6d", matrix[i][j] * constant);
         printf("\n");
     }
 

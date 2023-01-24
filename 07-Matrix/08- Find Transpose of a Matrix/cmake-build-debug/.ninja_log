@@ -1,0 +1,11 @@
+# ninja log v5
+0	182	6962863951175499	CMakeFiles/08__Find_Transpose_of_a_Matrix.dir/main.c.obj	e7ecf7381a7a48ef
+238	636	6962863955694780	08__Find_Transpose_of_a_Matrix.exe	36609bad79269fe2
+2	136	6962874499330366	CMakeFiles/08__Find_Transpose_of_a_Matrix.dir/main.c.obj	e7ecf7381a7a48ef
+136	264	6962874500561131	08__Find_Transpose_of_a_Matrix.exe	36609bad79269fe2
+2	129	6962877339480644	CMakeFiles/08__Find_Transpose_of_a_Matrix.dir/main.c.obj	e7ecf7381a7a48ef
+129	254	6962877340687895	08__Find_Transpose_of_a_Matrix.exe	36609bad79269fe2
+2	98	6962878783481168	CMakeFiles/08__Find_Transpose_of_a_Matrix.dir/main.c.obj	e7ecf7381a7a48ef
+99	205	6962878784501109	08__Find_Transpose_of_a_Matrix.exe	36609bad79269fe2
+1	90	6962880474691714	CMakeFiles/08__Find_Transpose_of_a_Matrix.dir/main.c.obj	e7ecf7381a7a48ef
+90	196	6962880475704352	08__Find_Transpose_of_a_Matrix.exe	36609bad79269fe2
