@@ -1,7 +1,3 @@
-// Check if the Matrix is symmetrical or not.
-// The symmetric matrix is like  { 8  2  3 }
-//                               { 2  7  4 }
-//                               { 3  4  6 } Each element is the same of the corresponding element.
 #include <stdio.h>
 
 int main ()
