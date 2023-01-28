@@ -1,3 +1,5 @@
 # ninja log v5
 0	577	6965450222920602	CMakeFiles/09_Check_Symmetric_Matrix.dir/main.c.obj	e2abf7837485e6b3
 579	1375	6965450230861966	09_Check_Symmetric_Matrix.exe	255b7142783f6912
+1	331	6966292130512512	CMakeFiles/09_Check_Symmetric_Matrix.dir/main.c.obj	e2abf7837485e6b3
+331	756	6966292134706927	09_Check_Symmetric_Matrix.exe	255b7142783f6912
