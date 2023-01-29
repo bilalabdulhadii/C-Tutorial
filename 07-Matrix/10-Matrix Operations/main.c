@@ -14,6 +14,7 @@
 
 void menu();
 void sum();
+void subtract();
 
 int main() {
     int option;
