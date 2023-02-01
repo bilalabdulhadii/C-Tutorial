@@ -15,7 +15,7 @@
 void menu();
 void sum();
 void subtract();
-
+void multiply_Constant();
 
 
 int main() {
