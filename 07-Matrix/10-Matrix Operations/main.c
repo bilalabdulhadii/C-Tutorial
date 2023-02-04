@@ -18,6 +18,7 @@ void subtract();
 void multiply_Constant();
 void multiply();
 void power();
+void determinant();
 
 
 
