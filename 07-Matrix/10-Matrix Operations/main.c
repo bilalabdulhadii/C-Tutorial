@@ -19,6 +19,7 @@ void multiply_Constant();
 void multiply();
 void power();
 void determinant();
+void transpose();
 
 
 
