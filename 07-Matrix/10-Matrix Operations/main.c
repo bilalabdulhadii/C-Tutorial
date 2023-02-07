@@ -17,7 +17,7 @@
 void menu();
 void sum();
 void subtract();
-void multiply_constant();
+void scalar_multiply();
 void multiply();
 void power();
 void determinant();
@@ -36,6 +36,9 @@ int main() {
             break;
         case 2:
             subtract();
+            break;
+        case 3:
+            scalar_multiply();
             break;
         case 9:
             exit(0);
@@ -61,9 +64,9 @@ void menu() {
 void sum() {
     int row, col;
     // Get the number of rows and columns of the matrix
-    printf("\nEnter the rows number: ");
+    printf("\nEnter the row number: ");
     scanf("%d", &row);
-    printf("Enter the columns number: ");
+    printf("Enter the column number: ");
     scanf("%d", &col);
 
     // Declare the matrices
@@ -96,9 +99,9 @@ void sum() {
 void subtract() {
     int row, col;
     // Get the number of rows and columns of the matrix
-    printf("\nEnter the rows number: ");
+    printf("\nEnter the row number: ");
     scanf("%d", &row);
-    printf("Enter the columns number: ");
+    printf("Enter the column number: ");
     scanf("%d", &col);
 
     // Declare the matrices
@@ -128,8 +131,31 @@ void subtract() {
     }
 }
 
-void multiply_constant() {
+void scalar_multiply() {
+    int row, col, num;
+    // Get the number of rows and columns of the matrix
+    printf("\nEnter the row number: ");
+    scanf("%d", &row);
+    printf("Enter the column number: ");
+    scanf("%d", &col);
 
+    // get a number.
+    printf("\nEnter a number to multiply with matrix: ");
+    scanf("%d", &num);
+
+    // Declare the matrix
+    int matrix[max_size][max_size];
+
+    // Get the matrix elements
+    printf("\nEnter the matrix elements:\n");
+    matrix_input(matrix, row, col);
+
+    // Print the result matrix
+    printf("\nThe matrix after multiplying by %d is:\n", num);
+    for(int i=0; i<row; i++) {
+        for(int j=0; j<col; j++) printf("%6d", matrix[i][j] * num);
+        printf("\n");
+    }
 }
 
 void matrix_input(int matrix[][max_size], int row, int col) {
