@@ -30,12 +30,18 @@ int main() {
     int option;
     menu();
     scanf("%d", &option);
-    if(option == 1) {
-
-        sum();
+    switch (option) {
+        case 1:
+            sum();
+            break;
+        case 2:
+            subtract();
+            break;
+        case 9:
+            exit(0);
+        default:
+            printf("\nWrong entry ...");
     }
-    else
-        exit(0);
     return 0;
 }
 
@@ -53,19 +59,18 @@ void menu() {
 }
 
 void sum() {
-
     int row, col;
     // Get the number of rows and columns of the matrix
-    printf("\nEnter the number of rows in the matrix: ");
+    printf("\nEnter the rows number: ");
     scanf("%d", &row);
-    printf("Enter the number of columns in the matrix: ");
+    printf("Enter the columns number: ");
     scanf("%d", &col);
 
     // Declare the matrices
-    int matrix1[max_size][max_size], matrix2[max_size][max_size], sum_matrix[max_size][max_size];
+    int matrix1[max_size][max_size], matrix2[max_size][max_size];
 
     // Get the first matrix elements
-    printf("Enter the first matrix elements:\n");
+    printf("\nEnter the first matrix elements:\n");
     matrix_input(matrix1, row, col);
 
     // Get the second matrix elements
@@ -86,6 +91,45 @@ void sum() {
         for (int j = 0; j < col; j++) printf ("%6d", matrix1[i][j] + matrix2[i][j]);
         printf("\n");
     }
+}
+
+void subtract() {
+    int row, col;
+    // Get the number of rows and columns of the matrix
+    printf("\nEnter the rows number: ");
+    scanf("%d", &row);
+    printf("Enter the columns number: ");
+    scanf("%d", &col);
+
+    // Declare the matrices
+    int matrix1[max_size][max_size], matrix2[max_size][max_size];
+
+    // Get the first matrix elements
+    printf("\nEnter the first matrix elements:\n");
+    matrix_input(matrix1, row, col);
+
+    // Get the second matrix elements
+    printf("\nEnter the second matrix elements:\n");
+    matrix_input(matrix2, row, col);
+
+    // Print the first matrix
+    printf("\nThe first matrix:\n");
+    matrix_output(matrix1, row, col);
+
+    // Print the second matrix
+    printf("\nThe second matrix:\n");
+    matrix_output(matrix2, row, col);
+
+    // Print the subtract matrix (result)
+    printf("\nThe subtract of matrix1 and matrix2 is:\n");
+    for (int i = 0; i < row; i++) {
+        for (int j = 0; j < col; j++) printf ("%6d", matrix1[i][j] - matrix2[i][j]);
+        printf("\n");
+    }
+}
+
+void multiply_constant() {
+
 }
 
 void matrix_input(int matrix[][max_size], int row, int col) {
