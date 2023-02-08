@@ -1,3 +1,5 @@
 # ninja log v5
 1	143	6959286666920704	CMakeFiles/05_Multiply_Two_Matrices.dir/main.c.obj	253f1b1dc254e1e1
 143	298	6959286668376413	05_Multiply_Two_Matrices.exe	67668704bf77ccda
+2	85	6975477482294833	CMakeFiles/05_Multiply_Two_Matrices.dir/main.c.obj	253f1b1dc254e1e1
+85	188	6975477483275388	05_Multiply_Two_Matrices.exe	67668704bf77ccda

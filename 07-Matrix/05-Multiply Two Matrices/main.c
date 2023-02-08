@@ -17,7 +17,7 @@ int main() {
     scanf("%d", &c2);
 
     // Declare the matrices
-    int matrix1[r1][c1], matrix2[r2][c2], sum_matrix[r1][c2];
+    int matrix1[r1][c1], matrix2[r2][c2], mul_matrix[r1][c2];
     if(c1 == r2) {
         // Get the first matrix elements
         printf("\n\nEnter 1. matrix elements:\n");
@@ -51,19 +51,19 @@ int main() {
             printf("\n");
         }
 
-        // Find the sum matrix.
+        // Find the multiplication
         for(int u=0; u<r1; u++) {
             for(int i=0; i<c2; i++) {
                 sum = 0;
                 for(int j=0; j<c1; j++) sum += ( matrix1[u][j] * matrix2[j][i] );
-                sum_matrix[u][i] = sum;
+                mul_matrix[u][i] = sum;
             }
         }
 
-        // print the sum matrix
+        // Print the multiplied matrix
         printf("\nThe multiplication of matrix1 and matrix2 is:\n");
         for(int i=0; i<r1; i++) {
-            for(int j=0; j<c2; j++) printf("%6d", sum_matrix[i][j]);
+            for(int j=0; j<c2; j++) printf("%6d", mul_matrix[i][j]);
             printf("\n");
         }
     }

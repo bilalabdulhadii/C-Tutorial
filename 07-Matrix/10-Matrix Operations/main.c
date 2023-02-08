@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include<conio.h>
 
+#define max_size 100
+
 /*
  * 1. Add Two Matrices
  * 2. Subtract Two Matrices
@@ -13,7 +15,6 @@
  * 8. Check Symmetric Matrix
 */
 
-#define max_size 100
 void menu();
 void sum();
 void subtract();
@@ -39,6 +40,21 @@ int main() {
             break;
         case 3:
             scalar_multiply();
+            break;
+        case 4:
+            multiply();
+            break;
+        case 5:
+            power();
+            break;
+        case 6:
+            determinant();
+            break;
+        case 7:
+            transpose();
+            break;
+        case 8:
+            symmetric();
             break;
         case 9:
             exit(0);
@@ -158,6 +174,74 @@ void scalar_multiply() {
     }
 }
 
+void multiply() {
+    int row1, row2, col1, col2;
+    int sum;
+
+    // Get the number of rows and columns from the user
+    printf("\nEnter the number of rows in the 1. matrix: ");
+    scanf("%d", &row1);
+    printf("Enter the number of columns in the 1. matrix: ");
+    scanf("%d", &col1);
+    printf("Enter the number of rows in the 2. matrix: ");
+    scanf("%d", &row2);
+    printf("Enter the number of columns in the 2. matrix: ");
+    scanf("%d", &col2);
+
+    // Declare the matrices
+    int matrix1[max_size][max_size], matrix2[max_size][max_size], mul_matrix[max_size][max_size];
+
+    if(col1 == row2) {
+        // Get the first matrix elements
+        printf("\nEnter 1. matrix elements:\n");
+        matrix_input(matrix1, row1, col1);
+
+        // Get the second matrix elements
+        printf("\nEnter 2. matrix elements:\n");
+        matrix_input(matrix2, row2, col2);
+
+        // Print the first matrix
+        printf("\n>> Matrix1:\n");
+        matrix_output(matrix1, row1, col1);
+
+        // print the second matrix
+        printf("\n>> Matrix2:\n");
+        matrix_output(matrix2, row2, col2);
+
+        // Find the multiplication
+        for(int u = 0; u < row1; u++) {
+            for(int i = 0; i < col2; i++) {
+                sum = 0;
+                for(int j = 0; j < col1; j++) sum += (matrix1[u][j] * matrix2[j][i]);
+                mul_matrix[u][i] = sum;
+            }
+        }
+
+        // Print the multiplied matrix
+        printf("\nThe multiplication of matrix1 and matrix2 is:\n");
+        matrix_output(mul_matrix, row1, col2);
+    }
+
+    // If the number of columns of the 1. matrix does not equal to the number of rows of the 2. matrix (col1 != row2)
+    else printf("\nWrong entry,\nThe number of the columns of the first matrix must be equal to the rows of the second matrix.\n");
+}
+
+void power() {
+
+}
+
+void determinant() {
+
+}
+
+void transpose() {
+
+}
+
+void symmetric() {
+
+}
+
 void matrix_input(int matrix[][max_size], int row, int col) {
     for (int i = 0; i < row; i++) {
         for (int j = 0; j < col; j++) {
@@ -168,8 +252,10 @@ void matrix_input(int matrix[][max_size], int row, int col) {
 }
 
 void matrix_output(int matrix[][max_size], int row, int col) {
-    for (int i=0; i<row; i++) {
-        for (int j=0; j<col; j++) printf ("%6d", matrix[i][j]);
+    for (int i = 0; i < row; i++) {
+        for (int j = 0; j < col; j++) printf ("%6d", matrix[i][j]);
         printf ("\n");
     }
 }
+
+
