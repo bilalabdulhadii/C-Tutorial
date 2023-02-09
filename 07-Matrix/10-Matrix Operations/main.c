@@ -168,8 +168,8 @@ void scalar_multiply() {
 
     // Print the result matrix
     printf("\nThe matrix after multiplying by %d is:\n", num);
-    for(int i=0; i<row; i++) {
-        for(int j=0; j<col; j++) printf("%6d", matrix[i][j] * num);
+    for(int i = 0; i < row; i++) {
+        for(int j = 0; j < col; j++) printf("%6d", matrix[i][j] * num);
         printf("\n");
     }
 }
@@ -227,7 +227,44 @@ void multiply() {
 }
 
 void power() {
+    int power, order, sum;
+    // Get the number of rows or columns of a square matrix
+    printf("\nEnter the order of the Matrix: ");
+    scanf("%d", &order);
+    printf("Enter the power of the matrix: ");
+    scanf("%d", &power);
 
+    // Declare the matrix
+    int matrix[max_size][max_size], copy_matrix[max_size][max_size], power_matrix[max_size][max_size];
+
+    // Get the matrix elements
+    printf("\nEnter the matrix elements:\n");
+    matrix_input(matrix, order, order);
+
+    // Produce a copy of the entered matrix
+    for (int i = 0; i < order; i++) {
+        for (int j = 0; j < order; j++) copy_matrix[i][j] = matrix[i][j];
+    }
+
+    // Find the power matrix
+    while(power > 1) {
+        // Multiplication Operation
+        for(int i = 0; i < order; i++) {
+            for(int j = 0; j < order; j++) {
+                sum = 0;
+                for(int u = 0; u < order; u++) sum += matrix[i][u] * copy_matrix[u][j];
+                power_matrix[i][j] = sum;
+            }
+        }
+        for(int i = 0; i < order; i++) {
+            for(int j = 0; j < order; j++) matrix[i][j] = power_matrix[i][j];
+        }
+        power--;
+    }
+
+    // Print the power matrix
+    printf("\nThe power matrix:\n");
+    matrix_output(power_matrix, order, order);
 }
 
 void determinant() {
