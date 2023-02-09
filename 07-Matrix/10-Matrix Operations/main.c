@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include<conio.h>
 
 #define max_size 100
 
@@ -268,7 +267,46 @@ void power() {
 }
 
 void determinant() {
+    int order;
+    float ratio, determinant = 1;
+    // Get the number of rows or columns of a square matrix
+    printf("\nEnter the order of the matrix: ");
+    scanf("%d", &order);
 
+    // Declare the matrix
+    float matrix[max_size][max_size];
+
+    // Get the matrix elements
+    printf("\nEnter the matrix elements:\n");
+    for(int i = 0; i < order; i++) {
+        for(int j = 0; j < order; j++) {
+            printf("[%d][%d]: ", i+1, j+1);
+            scanf("%f", &matrix[i][j]);
+        }
+    }
+
+    // Applying Gauss Elimination to transform the matrix to upper triangular matrix
+    for(int i = 0; i < order; i++) {
+        if(matrix[i][i] == 0.0) {
+            // Print the determinant of the matrix
+            printf("\n\nThe determinant of the entered matrix is: 0.00");
+            exit(0);
+        }
+        for(int j = i+1; j < order; j++) {
+            ratio = matrix[j][i] / matrix[i][i];
+            for(int k = 0; k < order; k++) {
+                matrix[j][k] -= ratio * matrix[i][k];
+            }
+        }
+    }
+
+    // multiplying elements in principal diagonal elements
+    for(int i = 0; i < order; i++) {
+        determinant *= matrix[i][i];
+    }
+
+    // Print the determinant of the matrix
+    printf("\n\nThe determinant of the entered matrix is: %.2f", determinant);
 }
 
 void transpose() {
