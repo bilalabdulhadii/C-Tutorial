@@ -310,11 +310,77 @@ void determinant() {
 }
 
 void transpose() {
+    int row, col, k = 0;
+    // Get the number of rows and columns of the matrix
+    printf("\nEnter the row number: ");
+    scanf("%d", &row);
+    printf("Enter the column number: ");
+    scanf("%d", &col);
 
+    // Declare the matrix
+    int matrix[max_size][max_size], transpose[max_size][max_size], array[row * col];
+
+    // Get the matrix elements
+    printf("\nEnter the matrix elements:\n");
+    matrix_input(matrix, row, col);
+
+    // We will first convert the matrix to array,
+    // then use this array to find the transpose
+
+    // Convert matrix to array
+    for(int i=0; i<col; i++) {
+        for(int j=0; j<row; j++, k++) {
+            array[k] = matrix[j][i];
+        }
+    }
+
+    // Find the transpose
+    k = 0;
+    for(int i=0; i<col; i++) {
+        for(int j=0; j<row; j++, k++) {
+            transpose[i][j] = array[k];
+        }
+    }
+
+    // Print the matrices
+    printf("\nThe matrix:\n");
+    matrix_output(matrix, row, col);
+
+    printf("\nThe transpose:\n");
+    matrix_output(transpose, col, row);
 }
 
 void symmetric() {
+    int row, col, flag = 1;
+    // Get the number of rows and columns of the matrix
+    printf("\nEnter the row number: ");
+    scanf("%d", &row);
+    printf("Enter the column number: ");
+    scanf("%d", &col);
 
+    // Declare the matrix
+    int matrix[max_size][max_size];
+
+    // Get the matrix elements
+    printf("\nEnter the matrix elements:\n");
+    matrix_input(matrix, row, col);
+
+    // Check if the matrix is symmetric or not
+    for(int i = 0; i < row; i++) {
+        for(int j = 0; j < col; j++) {
+            if(matrix[i][j] != matrix[j][i]) {
+                flag = 0;
+                break;
+            }
+        }
+    }
+
+    if(flag == 1) {
+        printf("\nThis matrix is a Symmetric matrix.\n");
+    }
+    else {
+        printf("\nThis matrix is not a Symmetric matrix.\n");
+    }
 }
 
 void matrix_input(int matrix[][max_size], int row, int col) {
