@@ -21,8 +21,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40dbe2af-1596-493f-be60-b9bc70852726" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of a Matrix/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../01-Get And Print Elements of a Matrix/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of a Matrix/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../01-Get And Print Elements of a Matrix/main.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/02_Add_Two_Matrices.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/02_Add_Two_Matrices.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/02_Add_Two_Matrices.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/02_Add_Two_Matrices.dir/main.c.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Subtract Two Matrices/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03-Subtract Two Matrices/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Subtract Two Matrices/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../03-Subtract Two Matrices/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Subtract Two Matrices/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../03-Subtract Two Matrices/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-Multiply Matrix By a Constant/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../04-Multiply Matrix By a Constant/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-Multiply Matrix By a Constant/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../04-Multiply Matrix By a Constant/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-Multiply Two Matrices/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../05-Multiply Two Matrices/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-Multiply Two Matrices/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../05-Multiply Two Matrices/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-Find The Power Of a Matrix/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../06-Find The Power Of a Matrix/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-Find The Power Of a Matrix/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../06-Find The Power Of a Matrix/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-Find Determinant of a Matrix/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../07-Find Determinant of a Matrix/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08- Find Transpose of a Matrix/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../08- Find Transpose of a Matrix/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08- Find Transpose of a Matrix/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../08- Find Transpose of a Matrix/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09-Check Symmetric Matrix/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../09-Check Symmetric Matrix/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09-Check Symmetric Matrix/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../09-Check Symmetric Matrix/main.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../10-Matrix Operations/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../10-Matrix Operations/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../10-Matrix Operations/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../10-Matrix Operations/main.c" afterDir="false" />
     </list>
@@ -51,21 +72,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="02_Add_Two_Matrices" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="02_Add_Two_Matrices" TARGET_NAME="02_Add_Two_Matrices" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="02_Add_Two_Matrices" RUN_TARGET_NAME="02_Add_Two_Matrices">
       <method v="2">
@@ -85,6 +106,8 @@
       <workItem from="1674225598453" duration="11000" />
       <workItem from="1674225681408" duration="4000" />
       <workItem from="1675692064327" duration="2245000" />
+      <workItem from="1676104666969" duration="1388000" />
+      <workItem from="1676110845896" duration="28000" />
     </task>
     <servers />
   </component>

@@ -1,3 +1,5 @@
 # ninja log v5
 0	156	6959278816048071	CMakeFiles/02_Add_Two_Matrices.dir/main.c.obj	ae7570bab6b674c1
 157	344	6959278817795784	02_Add_Two_Matrices.exe	eb9cbb93869ed694
+18	2627	6978109655424727	CMakeFiles/02_Add_Two_Matrices.dir/main.c.obj	ae7570bab6b674c1
+2627	3344	6978109662513417	02_Add_Two_Matrices.exe	eb9cbb93869ed694

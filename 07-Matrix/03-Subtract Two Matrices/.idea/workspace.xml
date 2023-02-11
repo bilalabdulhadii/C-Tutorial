@@ -21,148 +21,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33a6f4c9-36ba-4779-9044-eb796d91ae74" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of Matrix/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of Matrix/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of Matrix/.idea/01-Get And Print Elements of Matrix.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of Matrix/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of Matrix/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of Matrix/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of Matrix/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of Matrix/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of Matrix/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of Matrix/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of Matrix/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of Matrix/cmake-build-debug/.cmake/api/v1/reply/cache-v2-6da1fa9350846ae5d36e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of Matrix/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-2635df945494a923a154.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of Matrix/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-832fcf4d19d330b67904.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of Matrix/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of Matrix/cmake-build-debug/.cmake/api/v1/reply/index-2023-01-16T10-14-24-0323.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of Matrix/cmake-build-debug/.cmake/api/v1/reply/target-01_Get_And_Print_Elements_of_Matrix-Debug-c62eaa5c290549c28743.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of Matrix/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-a14ad81b585f5f78c8db.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of Matrix/cmake-build-debug/.ninja_deps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of Matrix/cmake-build-debug/.ninja_log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of Matrix/cmake-build-debug/01_Get_And_Print_Elements_of_Matrix.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of Matrix/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of Matrix/cmake-build-debug/CMakeFiles/01_Get_And_Print_Elements_of_Matrix.dir/main.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of Matrix/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of Matrix/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of Matrix/cmake-build-debug/CMakeFiles/3.24.2/CMakeRCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of Matrix/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of Matrix/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of Matrix/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of Matrix/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of Matrix/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of Matrix/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of Matrix/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of Matrix/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of Matrix/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of Matrix/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of Matrix/cmake-build-debug/build.ninja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of Matrix/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of Matrix/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Add Two Matrices/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Add Two Matrices/cmake-build-debug/.cmake/api/v1/reply/cache-v2-2d6713fb7723d99fd612.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Add Two Matrices/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-ae771521099ddfad3d09.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Add Two Matrices/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-35d69cd59c8b20ca393c.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Add Two Matrices/cmake-build-debug/.cmake/api/v1/reply/index-2023-01-17T05-12-03-0247.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of a Matrix/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../01-Get And Print Elements of a Matrix/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Get And Print Elements of a Matrix/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../01-Get And Print Elements of a Matrix/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Add Two Matrices/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02-Add Two Matrices/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../02-Add Two Matrices/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../02-Add Two Matrices/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../02-Add Two Matrices/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../02-Add Two Matrices/cmake-build-debug/.ninja_log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../02-Add Two Matrices/cmake-build-debug/02_Add_Two_Matrices.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../02-Add Two Matrices/cmake-build-debug/02_Add_Two_Matrices.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Add Two Matrices/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../02-Add Two Matrices/cmake-build-debug/CMakeCache.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../02-Add Two Matrices/cmake-build-debug/CMakeFiles/02_Add_Two_Matrices.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../02-Add Two Matrices/cmake-build-debug/CMakeFiles/02_Add_Two_Matrices.dir/main.c.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Add Two Matrices/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../02-Add Two Matrices/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Add Two Matrices/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../02-Add Two Matrices/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Add Two Matrices/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../02-Add Two Matrices/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Add Two Matrices/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../02-Add Two Matrices/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Add Two Matrices/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../02-Add Two Matrices/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Add Two Matrices/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../02-Add Two Matrices/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../02-Add Two Matrices/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../02-Add Two Matrices/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Add Two Matrices/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../02-Add Two Matrices/cmake-build-debug/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Add Two Matrices/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../02-Add Two Matrices/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-01-17T18-43-51-0395.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/03_Subtract_Two_Matrices.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/03_Subtract_Two_Matrices.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Add Two Matrices/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../02-Add Two Matrices/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Multiply Two Matrices/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Multiply Two Matrices/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Multiply Two Matrices/.idea/04-Multiply Two Matrices.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Multiply Two Matrices/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Multiply Two Matrices/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Multiply Two Matrices/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Multiply Two Matrices/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Multiply Two Matrices/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Multiply Two Matrices/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Multiply Two Matrices/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Multiply Two Matrices/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Multiply Two Matrices/cmake-build-debug/.cmake/api/v1/reply/cache-v2-983fa566a14d8d80831c.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Multiply Two Matrices/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-10617f20fb70006cd65e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Multiply Two Matrices/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-6c582b6b032cc8b7c4f4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Multiply Two Matrices/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Multiply Two Matrices/cmake-build-debug/.cmake/api/v1/reply/index-2023-01-17T18-41-57-0603.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Multiply Two Matrices/cmake-build-debug/.cmake/api/v1/reply/target-04_Multiply_Two_Matrices-Debug-c55329009c061e3e44f5.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Multiply Two Matrices/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-a14ad81b585f5f78c8db.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Multiply Two Matrices/cmake-build-debug/.ninja_deps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Multiply Two Matrices/cmake-build-debug/.ninja_log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Multiply Two Matrices/cmake-build-debug/04_Multiply_Two_Matrices.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Multiply Two Matrices/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Multiply Two Matrices/cmake-build-debug/CMakeFiles/04_Multiply_Two_Matrices.dir/main.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Multiply Two Matrices/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Multiply Two Matrices/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Multiply Two Matrices/cmake-build-debug/CMakeFiles/3.24.2/CMakeRCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Multiply Two Matrices/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Multiply Two Matrices/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Multiply Two Matrices/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Multiply Two Matrices/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Multiply Two Matrices/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Multiply Two Matrices/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Multiply Two Matrices/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Multiply Two Matrices/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Multiply Two Matrices/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Multiply Two Matrices/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Multiply Two Matrices/cmake-build-debug/build.ninja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Multiply Two Matrices/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Multiply Two Matrices/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05-Multiply The Matrix By a Constant/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05-Multiply The Matrix By a Constant/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05-Multiply The Matrix By a Constant/.idea/05-Multiply The Matrix By a Constant.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05-Multiply The Matrix By a Constant/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05-Multiply The Matrix By a Constant/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05-Multiply The Matrix By a Constant/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05-Multiply The Matrix By a Constant/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05-Multiply The Matrix By a Constant/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05-Multiply The Matrix By a Constant/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05-Multiply The Matrix By a Constant/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05-Multiply The Matrix By a Constant/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05-Multiply The Matrix By a Constant/cmake-build-debug/.cmake/api/v1/reply/cache-v2-7731d4e6231adc9bfaa2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05-Multiply The Matrix By a Constant/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-bebc8b98ba87b93fbcec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05-Multiply The Matrix By a Constant/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-a4099435a675d144e573.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05-Multiply The Matrix By a Constant/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05-Multiply The Matrix By a Constant/cmake-build-debug/.cmake/api/v1/reply/index-2023-01-19T19-33-05-0877.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05-Multiply The Matrix By a Constant/cmake-build-debug/.cmake/api/v1/reply/target-05_Multiply_The_Matrix_By_a_Constant-Debug-8ea27895acd19741d253.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05-Multiply The Matrix By a Constant/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-a14ad81b585f5f78c8db.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05-Multiply The Matrix By a Constant/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05-Multiply The Matrix By a Constant/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05-Multiply The Matrix By a Constant/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05-Multiply The Matrix By a Constant/cmake-build-debug/CMakeFiles/3.24.2/CMakeRCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05-Multiply The Matrix By a Constant/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05-Multiply The Matrix By a Constant/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05-Multiply The Matrix By a Constant/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05-Multiply The Matrix By a Constant/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05-Multiply The Matrix By a Constant/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05-Multiply The Matrix By a Constant/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05-Multiply The Matrix By a Constant/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05-Multiply The Matrix By a Constant/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05-Multiply The Matrix By a Constant/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05-Multiply The Matrix By a Constant/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05-Multiply The Matrix By a Constant/cmake-build-debug/build.ninja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05-Multiply The Matrix By a Constant/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05-Multiply The Matrix By a Constant/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-Multiply Matrix By a Constant/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../04-Multiply Matrix By a Constant/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-Multiply Matrix By a Constant/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../04-Multiply Matrix By a Constant/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-Multiply Two Matrices/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../05-Multiply Two Matrices/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-Multiply Two Matrices/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../05-Multiply Two Matrices/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-Find The Power Of a Matrix/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../06-Find The Power Of a Matrix/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-Find The Power Of a Matrix/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../06-Find The Power Of a Matrix/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-Find Determinant of a Matrix/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../07-Find Determinant of a Matrix/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08- Find Transpose of a Matrix/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../08- Find Transpose of a Matrix/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08- Find Transpose of a Matrix/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../08- Find Transpose of a Matrix/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09-Check Symmetric Matrix/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../09-Check Symmetric Matrix/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09-Check Symmetric Matrix/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../09-Check Symmetric Matrix/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10-Matrix Operations/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../10-Matrix Operations/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10-Matrix Operations/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../10-Matrix Operations/main.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,6 +105,9 @@
       <workItem from="1674224777129" duration="78000" />
       <workItem from="1674225087985" duration="330000" />
       <workItem from="1674225617921" duration="13000" />
+      <workItem from="1676104678450" duration="2466000" />
+      <workItem from="1676108932409" duration="6000" />
+      <workItem from="1676110949760" duration="18000" />
     </task>
     <servers />
   </component>

@@ -328,16 +328,16 @@ void transpose() {
     // then use this array to find the transpose
 
     // Convert matrix to array
-    for(int i=0; i<col; i++) {
-        for(int j=0; j<row; j++, k++) {
+    for(int i = 0; i < col; i++) {
+        for(int j = 0; j < row; j++, k++) {
             array[k] = matrix[j][i];
         }
     }
 
     // Find the transpose
     k = 0;
-    for(int i=0; i<col; i++) {
-        for(int j=0; j<row; j++, k++) {
+    for(int i = 0; i < col; i++) {
+        for(int j = 0; j < row; j++, k++) {
             transpose[i][j] = array[k];
         }
     }

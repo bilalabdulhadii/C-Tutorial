@@ -6,9 +6,9 @@ int main() {
     int row, column, k = 0;
 
     // Get the number of rows and columns of the matrix
-    printf("Enter the number of rows in the matrix: ");
+    printf("Enter the number of rows: ");
     scanf("%d", &row);
-    printf("Enter the number of columns in the matrix: ");
+    printf("Enter the number of columns: ");
     scanf("%d", &column);
 
     // Declare the matrix
@@ -27,30 +27,30 @@ int main() {
     // then use this array to find the transpose
 
     // Convert matrix to array
-    for(int i=0; i<column; i++) {
-        for(int j=0; j<row; j++, k++) {
+    for(int i = 0; i < column; i++) {
+        for(int j = 0; j < row; j++, k++) {
             array[k] = matrix[j][i];
         }
     }
 
     // Find the transpose
     k = 0;
-    for(int i=0; i<column; i++) {
-        for(int j=0; j<row; j++, k++) {
+    for(int i = 0; i < column; i++) {
+        for(int j = 0; j < row; j++, k++) {
             transpose[i][j] = array[k];
         }
     }
 
     // Print the matrices
     printf("\nThe matrix:\n");
-    for(int i=0; i<row; i++) {
-        for(int j=0; j<column; j++) printf("%6d", matrix[i][j]);
+    for(int i = 0; i < row; i++) {
+        for(int j = 0; j < column; j++) printf("%6d", matrix[i][j]);
         printf("\n");
     }
 
     printf("\nThe transpose:\n");
-    for(int i=0; i<column; i++) {
-        for(int j=0; j<row; j++) printf("%6d", transpose[i][j]);
+    for(int i = 0; i < column; i++) {
+        for(int j = 0; j < row; j++) printf("%6d", transpose[i][j]);
         printf("\n");
     }
     return 0;

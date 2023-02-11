@@ -21,8 +21,8 @@ int main() {
     if(c1 == r2) {
         // Get the first matrix elements
         printf("\n\nEnter 1. matrix elements:\n");
-        for(int i=0; i<r1; i++) {
-            for(int j=0; j<c1; j++) {
+        for(int i = 0; i < r1; i++) {
+            for(int j = 0; j < c1; j++) {
                 printf("matrix1[%d][%d] : ", i+1, j+1);
                 scanf("%d", &matrix1[i][j]);
             }
@@ -30,8 +30,8 @@ int main() {
 
         // Get the second matrix elements
         printf("\n\nEnter 2. matrix elements:\n");
-        for(int i=0; i<r2; i++) {
-            for(int j=0; j<c2; j++) {
+        for(int i = 0; i < r2; i++) {
+            for(int j = 0; j < c2; j++) {
                 printf("matrix2[%d][%d] : ", i+1, j+1);
                 scanf("%d", &matrix2[i][j]);
             }
@@ -39,31 +39,31 @@ int main() {
 
         // Print the first matrix
         printf("\n>> Matrix1:\n");
-        for(int i=0; i<r1; i++) {
-            for(int j=0; j<c1; j++) printf("%6d", matrix1[i][j]);
+        for(int i = 0; i < r1; i++) {
+            for(int j = 0; j < c1; j++) printf("%6d", matrix1[i][j]);
             printf("\n");
         }
 
         // print the second matrix
         printf("\n>> Matrix2:\n");
-        for(int i=0; i<r2; i++) {
-            for(int j=0; j<c2; j++) printf("%6d", matrix2[i][j]);
+        for(int i = 0; i < r2; i++) {
+            for(int j = 0; j < c2; j++) printf("%6d", matrix2[i][j]);
             printf("\n");
         }
 
         // Find the multiplication
-        for(int u=0; u<r1; u++) {
-            for(int i=0; i<c2; i++) {
+        for(int u = 0; u < r1; u++) {
+            for(int i = 0; i < c2; i++) {
                 sum = 0;
-                for(int j=0; j<c1; j++) sum += ( matrix1[u][j] * matrix2[j][i] );
+                for(int j = 0; j < c1; j++) sum += (matrix1[u][j] * matrix2[j][i]);
                 mul_matrix[u][i] = sum;
             }
         }
 
         // Print the multiplied matrix
         printf("\nThe multiplication of matrix1 and matrix2 is:\n");
-        for(int i=0; i<r1; i++) {
-            for(int j=0; j<c2; j++) printf("%6d", mul_matrix[i][j]);
+        for(int i = 0; i < r1; i++) {
+            for(int j = 0; j < c2; j++) printf("%6d", mul_matrix[i][j]);
             printf("\n");
         }
     }
