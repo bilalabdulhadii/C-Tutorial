@@ -1,0 +1,3 @@
+D:/Programming/Coding/C/C Tutorial/08-Pointers/01-Initialize and Use Pointers/cmake-build-debug/CMakeFiles/01_Initialize_and_Use_Pointers.dir
+D:/Programming/Coding/C/C Tutorial/08-Pointers/01-Initialize and Use Pointers/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programming/Coding/C/C Tutorial/08-Pointers/01-Initialize and Use Pointers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
