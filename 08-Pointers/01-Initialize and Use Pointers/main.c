@@ -14,7 +14,6 @@ int main() {
     printf("Value of number ptr : %d\n", number_ptr);
 
     printf("\n----------------------------------\n");
-
     printf("Value pointed by number ptr = %d\n", *number_ptr);
     return 0;
 }
