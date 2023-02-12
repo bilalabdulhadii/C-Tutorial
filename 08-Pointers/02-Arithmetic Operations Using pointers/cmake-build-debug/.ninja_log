@@ -1,0 +1,11 @@
+# ninja log v5
+0	154	6979286677415029	CMakeFiles/02_Arithmetic_Operations_Using_pointers.dir/main.c.obj	d16eeb6b9185ff7a
+157	374	6979286679542965	02_Arithmetic_Operations_Using_pointers.exe	37166c4dfddfafb8
+3	109	6979286879297979	CMakeFiles/02_Arithmetic_Operations_Using_pointers.dir/main.c.obj	d16eeb6b9185ff7a
+110	291	6979286881070201	02_Arithmetic_Operations_Using_pointers.exe	37166c4dfddfafb8
+2	110	6979288001600563	CMakeFiles/02_Arithmetic_Operations_Using_pointers.dir/main.c.obj	d16eeb6b9185ff7a
+111	272	6979288003138806	02_Arithmetic_Operations_Using_pointers.exe	37166c4dfddfafb8
+3	155	6979303805127184	CMakeFiles/02_Arithmetic_Operations_Using_pointers.dir/main.c.obj	d16eeb6b9185ff7a
+155	324	6979303806770284	02_Arithmetic_Operations_Using_pointers.exe	37166c4dfddfafb8
+2	109	6979304431548079	CMakeFiles/02_Arithmetic_Operations_Using_pointers.dir/main.c.obj	d16eeb6b9185ff7a
+109	249	6979304432887152	02_Arithmetic_Operations_Using_pointers.exe	37166c4dfddfafb8
