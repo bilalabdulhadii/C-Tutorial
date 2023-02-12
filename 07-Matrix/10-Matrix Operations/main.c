@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define max_size 100
+#define max_size 200
 
 /*
  * 1. Add Two Matrices
