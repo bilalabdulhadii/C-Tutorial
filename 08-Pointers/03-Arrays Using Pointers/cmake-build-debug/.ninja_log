@@ -1,0 +1,11 @@
+# ninja log v5
+0	120	6980118030975710	CMakeFiles/03_Arrays_Using_Pointers.dir/main.c.obj	a6675c556d3dfea4
+121	298	6980118032689088	03_Arrays_Using_Pointers.exe	8b124acef38a7c3f
+2	116	6980118514923445	CMakeFiles/03_Arrays_Using_Pointers.dir/main.c.obj	a6675c556d3dfea4
+116	242	6980118516142872	03_Arrays_Using_Pointers.exe	8b124acef38a7c3f
+1	83	6980119200812136	CMakeFiles/03_Arrays_Using_Pointers.dir/main.c.obj	a6675c556d3dfea4
+83	201	6980119201939042	03_Arrays_Using_Pointers.exe	8b124acef38a7c3f
+2	113	6980125419061200	CMakeFiles/03_Arrays_Using_Pointers.dir/main.c.obj	a6675c556d3dfea4
+113	240	6980125420258818	03_Arrays_Using_Pointers.exe	8b124acef38a7c3f
+1	84	6980125785860833	CMakeFiles/03_Arrays_Using_Pointers.dir/main.c.obj	a6675c556d3dfea4
+84	193	6980125786882968	03_Arrays_Using_Pointers.exe	8b124acef38a7c3f
