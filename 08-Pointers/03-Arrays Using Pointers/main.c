@@ -1,7 +1,5 @@
 #include <stdio.h>
-
 #define max_size 100
-
 int main() {
     int arr[max_size];
     int *ptr, num;
